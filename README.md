@@ -1,6 +1,6 @@
 # freeCodeCamp - John Smilga Color Flipper Challenge
 
-![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Fylo data storage component coding challenge](./images/desktop.png)
 
 This is a solution to the [John Smilga Color Flipper Challenge  on FreeCodeCamp](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JEajNMRldyX2F5OFVJeGh6dDJZVkN3ZFhnQXxBQ3Jtc0tseURWcVRpTGo2VXpna2JSTEh2TEZFRE5kOTVVYTdLVDRaQ1pkbmJwLUJRLXRDcmpDcVlvMGNmSWlzaVZSeWlqOTJsbWNib2JoblBSOTZhejNaMkUzYmo2UXM1MWdEV1NfSGE3eEJIZ0pPd180RHZ1cw&q=https%3A%2F%2Fgithub.com%2Fjohn-smilga%2Fjavascript-basic-projects&v=3PHXvlpOkf4). 
 
