@@ -44,7 +44,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Vanilla JavaScript (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hCajcyZFVzNERiZGQ1WmlQVUI4cmVJRjhoQXxBQ3Jtc0trSm82ampQY0R5LVZhMDVkY19ZS1RVc1NvWjVYYlFpZXh1ZXI3SmJEZFFKWnVPVlBkMTlGQXhnUy11alZqVXJSanRnT1ZLZzBMZ1lreUJMQVpPQ3ctRXN5X0JRUm90NmlEUE1IRmpYX0duQnFvS0l6RQ&q=https%3A%2F%2Fwww.vanillajavascriptprojects.com%2F&v=3PHXvlpOkf4)
+- Vanilla JavaScript 
 
 
 ### Continued development
